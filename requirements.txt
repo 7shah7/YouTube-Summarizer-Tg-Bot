@@ -7,3 +7,5 @@ youtube_transcript_api
 redis
 python-dotenv
 aiohttp
+yt-dlp
+flask
